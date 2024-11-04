@@ -1,0 +1,72 @@
+body {
+    background-color: darkgray;
+  }
+#navi li{
+    display: inline;
+    margin: 0 50px;
+}
+a  {
+   color: white;
+   text-decoration: none;
+}
+.kirmizi{
+  width: 250px;
+  height:250px;
+  color: beige;
+}
+.blue{
+  width: 250px;
+  height:250px;
+  color: beige;
+}
+p#first{
+  text-align:left;
+}
+p#second{
+  text-align:center;
+}
+.sitelinkleriBaslik{
+  font-size: 500px;
+}
+#navi{
+  font-size: 15px;
+}
+h1{
+  color: azure;
+}
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mario{
+  color: cornsilk
+}
+a:link {
+  background-color: slategrey
+}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color:rgb(70, 70, 70);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #5e9cca;
+  color: white;
+}
